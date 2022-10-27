@@ -1,0 +1,21 @@
+https://github.com/Azure/aztfy
+
+https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-terrafy-import-your-existing-azure-infrastructure-into/ba-p/3357653
+
+https://learn.microsoft.com/en-us/azure/developer/terraform/create-vm-cluster-with-infrastructure
+
+https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_interface
+
+https://stackoverflow.com/questions/68342207/how-to-add-a-new-resource-to-an-existing-resource-group-in-terraform
+
+https://gmusumeci.medium.com/how-to-import-an-existing-azure-resource-in-terraform-6d585f93ea02
+
+https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/public_ip
+
+https://stackoverflow.com/questions/52504137/terraform-azure-provision-vm-to-existing-subnet-vnet-resourcegroup
+
+https://www.reddit.com/r/Intune/comments/t8qx4y/comment/hzu5g3g/
+
+https://learn.microsoft.com/en-us/azure/virtual-machines/image-builder-overview?tabs=azure-powershell
+
+https://vscode.one/comment-vscode/  - CTRL+/  is so helpful
